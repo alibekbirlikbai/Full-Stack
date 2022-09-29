@@ -1,4 +1,4 @@
-# CRUD: backend + db
+# CRUD: + frontend
 
 ![list (get)](https://user-images.githubusercontent.com/87764579/193137686-dbcc9fc4-b3be-409f-813a-4d7cb021234b.png)
 ![create (post)](https://user-images.githubusercontent.com/87764579/193137670-550852b9-501b-4e87-aee9-6752f9a768e2.png)
